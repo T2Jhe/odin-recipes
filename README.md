@@ -1,1 +1,1 @@
-# odin-recipes
+odin recipes project, basic html- boilerplay, link, h1, ul and ol
